@@ -9,4 +9,8 @@ Como você pode usar a área de preparação para garantir que tenha um commit p
 	Você pode adicionar a alteração lógica através do comando: git add <nome do arquivo> e realizar
 	o commit
 
-	
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+	Eles permitem experimentar novos caminhos de desenvolvimento ou criar versões específicas mantendo uma base em comum estável
+
