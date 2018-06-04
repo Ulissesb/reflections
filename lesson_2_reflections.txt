@@ -1,1 +1,12 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+	É criado uma subpasta de nome .git
+	Esta é a pasta de armazenamento dos metadados para o controle de versão
+
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+	Você pode adicionar a alteração lógica através do comando: git add <nome do arquivo> e realizar
+	o commit
+
+	
