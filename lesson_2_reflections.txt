@@ -14,3 +14,7 @@ Quais são algumas das situações em que branches seriam úteis para manter seu
 
 	Eles permitem experimentar novos caminhos de desenvolvimento ou criar versões específicas mantendo uma base em comum estável
 
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+	Permitem encontrar rapidamente em qual momento temporal foram criados em relação a estrutura raiz
+
