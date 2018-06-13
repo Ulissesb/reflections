@@ -26,3 +26,9 @@ Qual é o resultado da mesclagem de dois branches? Por que o representamos no di
 	Representamos no diagrama como um nó que tem 2 pais
 
 
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+	A mesclagem automática poupa trabalho de comparação de código mais simples, mas ela não resolve
+	quando duas versões da mesma sessão são modificadas. Neste caso é necessário a mesclagem manual
+
+
