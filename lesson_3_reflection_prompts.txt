@@ -1,3 +1,32 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 
   Para trabalhar em equipe remota ou de diferentes locais ou para ter um backup na nuvem
+
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+
+	Porque posso trabalhar em uma atualização/feature localmente com diversos commits e só
+	disponibilizá-la publicamente quando estiver madura/completa
+
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+	Bifurcação é utilizada quando clonamos online um repositório no Github. Clone é a cópia de
+	de um projeto, podendo ser local ou remoto. Branche é quando crio uma nova linha paralela
+	ao desenvolvimento.
+
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+	Posso trabalhar offline com o código mais atual
+
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+	Precisaria utilizar algum outro controle de versão como team foundation.
+
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+	Em um branch posso trabalhar com alterações que serão validadas por outros e/ou testes de desenvolvimento e/ou diferentes funcionalidades sem comprometer o master enquanto não
+	estiverem maduras.
